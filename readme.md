@@ -1,6 +1,6 @@
-# Foobar
+# Mi repositorio de Oracle APEX
 
-Foobar is a Python library for dealing with word pluralization.
+Este es mi primer repositodio en Oracle APEX
 
 ## Installation
 
